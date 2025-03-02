@@ -125,7 +125,7 @@ function App() {
         }}></div>
         <div className="max-w-4xl mx-auto relative z-10">
           <h1 className="text-4xl md:text-6xl font-bold mb-6 bg-clip-text text-transparent bg-gradient-to-r from-blue-400 to-purple-500">
-            Innovate Hackathon 2025
+            InnovateX Hackathon 2025
           </h1>
           <p className="text-xl md:text-2xl mb-8 text-gray-300">
             Innovate. Create. Transform.
