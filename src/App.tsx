@@ -80,8 +80,8 @@ function App() {
       icon: <Clock className="w-5 h-5 text-indigo-500" />
     },
     {
-      title: "Finals (Offline)",
-      date: "March 9, 2025 (8:30 AM - 2:00 PM)",
+      title: "Results Announcement",
+      date: "March 9, 2025 (10:00 AM)",
       icon: <Users className="w-5 h-5 text-indigo-500" />
     }
   ];
@@ -119,7 +119,7 @@ function App() {
         }}></div>
         <div className="max-w-4xl mx-auto relative z-10">
           <h1 className="text-4xl md:text-6xl font-bold mb-6 bg-clip-text text-transparent bg-gradient-to-r from-blue-400 to-purple-500">
-            Hackathon 2025
+            Innovate Hackathon 2025
           </h1>
           <p className="text-xl md:text-2xl mb-8 text-gray-300">
             Innovate. Create. Transform.
@@ -252,6 +252,14 @@ function App() {
               </div>
               <p className="text-gray-300">Winning teams will receive exciting prizes and an opportunity to participate in IPC - Phase II.</p>
             </div>
+
+            <div className="bg-gray-800 bg-opacity-50 p-6 rounded-xl border border-gray-700">
+              <div className="flex items-center mb-4">
+                <Code className="w-6 h-6 text-indigo-400 mr-3" />
+                <h3 className="font-bold text-xl">Evaluation</h3>
+              </div>
+              <p className="text-gray-300">Online evaluation of submitted projects.</p>
+            </div>
           </div>
         </div>
       </motion.section>
@@ -311,7 +319,7 @@ function App() {
         viewport={{ once: true }}
       >
         <div className="container mx-auto px-4 text-center text-gray-400">
-          <p>© 2025 Hackathon. All rights reserved.</p>
+          <p>© Innovate 2025 Hackathon. All rights reserved.</p>
           <div className="mt-4">
             <img 
               src="https://images.unsplash.com/photo-1557426272-fc759fdf7a8d?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80" 
