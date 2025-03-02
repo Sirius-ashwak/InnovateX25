@@ -239,14 +239,6 @@ function App() {
             
             <div className="bg-gray-800 bg-opacity-50 p-6 rounded-xl border border-gray-700">
               <div className="flex items-center mb-4">
-                <Code className="w-6 h-6 text-indigo-400 mr-3" />
-                <h3 className="font-bold text-xl">Final Round</h3>
-              </div>
-              <p className="text-gray-300">On-site development for selected teams.</p>
-            </div>
-            
-            <div className="bg-gray-800 bg-opacity-50 p-6 rounded-xl border border-gray-700">
-              <div className="flex items-center mb-4">
                 <Award className="w-6 h-6 text-indigo-400 mr-3" />
                 <h3 className="font-bold text-xl">Prizes</h3>
               </div>
