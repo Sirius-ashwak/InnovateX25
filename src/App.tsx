@@ -317,7 +317,7 @@ function App() {
         viewport={{ once: true }}
       >
         <div className="container mx-auto px-4 text-center text-gray-400">
-          <p>© Innovate 2025 Hackathon. All rights reserved.</p>
+          <p>© InnovateX 2025 Hackathon. All rights reserved.</p>
           <div className="mt-4">
             <img 
               src="https://images.unsplash.com/photo-1557426272-fc759fdf7a8d?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80" 
