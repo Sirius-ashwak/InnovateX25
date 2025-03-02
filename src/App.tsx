@@ -65,6 +65,12 @@ function App() {
       title: "AI-Powered Resume Screening System",
       description: "Develop a smart recruitment tool that evaluates resumes based on skills, experience, and job fit using AI.",
       image: "https://images.unsplash.com/photo-1586281380349-632531db7ed4?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80"
+    },
+    {
+      id: 11,
+      title: "Open Innovation Challenge",
+      description: "Showcase your innovative ideas in any domain using emerging technologies to solve real-world problems.",
+      image: "https://plus.unsplash.com/premium_photo-1682309536401-f47fc8b7b92d?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8b3BlbiUyMGlubm92YXRpb258ZW58MHx8MHx8fDA%3D"
     }
   ];
 
